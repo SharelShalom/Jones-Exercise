@@ -1,0 +1,23 @@
+{
+  "name": "jones-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^17.4.2",
+    "mongoose": "^6.0.10",
+    "nodemon": "^2.0.13",
+    "underscore": "^1.13.1",
+    "winston": "^3.3.3",
+    "winston-mongodb": "^5.0.7"
+  },
+  "devDependencies": {
+    "jest": "^27.2.5"
+  }
+}
